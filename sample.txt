@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Text changes
+=======
+Hi there
+
+This is inside the first commit branch
+>>>>>>> ecade809903ec01c451ae04b39765ea4699743d2
